@@ -1,4 +1,4 @@
-package jwt
+package github.com/go-huhu/jwt
 
 import (
 	"encoding/json"
