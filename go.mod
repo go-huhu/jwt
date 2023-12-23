@@ -1,4 +1,4 @@
-module github.com/go-huhu/jwt
+module jwt
 
 go 1.20
 
